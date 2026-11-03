@@ -31,11 +31,24 @@ building projects that challenge my skills.
 
 <br>
 
+
 <h2 align="center">🤝 Connect</h2>
 
 <p align="center">
   <a href="https://github.com/yonlusz">
-    <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub">
+    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub">
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:qlucas099@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Email">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.com/users/SEU_ID_NUMERICO">
+    <img src="https://cdn.simpleicons.org/discord/5865F2" width="48" height="48" alt="Discord">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/yonxch/">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="48" height="48" alt="Instagram">
   </a>
 </p>
 
