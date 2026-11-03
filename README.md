@@ -39,7 +39,7 @@ building projects that challenge my skills.
     <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub">
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:qlucas099">
+  <a href="mailto:qlucas099@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Email">
   </a>
   &nbsp;&nbsp;
