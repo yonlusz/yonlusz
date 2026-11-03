@@ -17,7 +17,7 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-<img align="right" width="220" src="assets/about-me.gif" alt="assets/Glitching Game Boy GIF by Garbi KW.gif">
+<img align="right" width="220" src="assets/about-me.gif" alt="About Me GIF">
 
 Hey, I'm **Yonlu!**
 
