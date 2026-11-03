@@ -27,4 +27,15 @@ software development, and creative projects.
 I enjoy exploring new technologies and
 building projects that challenge my skills.
 
-<br clear="both">
+<br clear="both"> 
+
+<br>
+
+<h2 align="center">🤝 Connect</h2>
+
+<p align="center">
+  <a href="https://github.com/yonlusz">
+    <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub">
+  </a>
+</p>
+
