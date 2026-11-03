@@ -51,4 +51,10 @@ building projects that challenge my skills.
     <img src="https://cdn.simpleicons.org/instagram/E4405F" width="48" height="48" alt="Instagram">
   </a>
 </p>
+<br>
 
+<h2 align="center">💻 Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,sqlite,js,html,cs,linux,docker,mysql,nodejs,java,cpp&theme=dark&perline=8" alt="My Tech Stack">
+</p>
